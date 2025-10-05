@@ -1,0 +1,14 @@
+C:\dev\other\csharp\SharpCode\bin\Debug\net8.0\SharpCode.exe
+C:\dev\other\csharp\SharpCode\bin\Debug\net8.0\SharpCode.deps.json
+C:\dev\other\csharp\SharpCode\bin\Debug\net8.0\SharpCode.runtimeconfig.json
+C:\dev\other\csharp\SharpCode\bin\Debug\net8.0\SharpCode.dll
+C:\dev\other\csharp\SharpCode\bin\Debug\net8.0\SharpCode.pdb
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\SharpCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\SharpCode.AssemblyInfoInputs.cache
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\SharpCode.AssemblyInfo.cs
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\SharpCode.csproj.CoreCompileInputs.cache
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\SharpCode.dll
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\refint\SharpCode.dll
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\SharpCode.pdb
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\SharpCode.genruntimeconfig.cache
+C:\dev\other\csharp\SharpCode\obj\Debug\net8.0\ref\SharpCode.dll
